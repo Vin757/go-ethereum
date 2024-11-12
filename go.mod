@@ -23,14 +23,14 @@ require (
 	github.com/dop251/goja v0.0.0-20230605162241-28ee0ee714f3
 	github.com/ethereum/c-kzg-4844 v1.0.0
 	github.com/ethereum/go-verkle v0.1.1-0.20240306133620-7d920df305f0
-	github.com/fatih/color v1.13.0
+	github.com/fatih/color v1.16.0
 	github.com/ferranbt/fastssz v0.1.2
 	github.com/fjl/gencodec v0.0.0-20230517082657-f9840df7b83e
 	github.com/fjl/memsize v0.0.2
 	github.com/fsnotify/fsnotify v1.6.0
 	github.com/gballet/go-libpcsclite v0.0.0-20190607065134-2772fd86a8ff
 	github.com/gofrs/flock v0.8.1
-	github.com/golang-jwt/jwt/v4 v4.5.0
+	github.com/golang-jwt/jwt/v4 v4.5.1
 	github.com/golang/protobuf v1.5.4
 	github.com/golang/snappy v0.0.5-0.20220116011046-fa5810519dcb
 	github.com/google/gofuzz v1.2.0
@@ -51,7 +51,7 @@ require (
 	github.com/kilic/bls12-381 v0.1.0
 	github.com/kylelemons/godebug v1.1.0
 	github.com/mattn/go-colorable v0.1.13
-	github.com/mattn/go-isatty v0.0.17
+	github.com/mattn/go-isatty v0.0.20
 	github.com/naoina/toml v0.1.2-0.20170918210437-9fafd6967416
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/peterh/liner v1.1.1-0.20190123174540-a2c9a5303de7
@@ -69,7 +69,7 @@ require (
 	go.uber.org/automaxprocs v1.5.2
 	golang.org/x/crypto v0.22.0
 	golang.org/x/sync v0.7.0
-	golang.org/x/sys v0.19.0
+	golang.org/x/sys v0.20.0
 	golang.org/x/text v0.14.0
 	golang.org/x/time v0.5.0
 	golang.org/x/tools v0.20.0
@@ -112,7 +112,7 @@ require (
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/google/pprof v0.0.0-20230207041349-798e818bf904 // indirect
 	github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
-	github.com/hashicorp/go-retryablehttp v0.7.4 // indirect
+	github.com/hashicorp/go-retryablehttp v0.7.7 // indirect
 	github.com/influxdata/line-protocol v0.0.0-20200327222509-2487e7298839 // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 	github.com/klauspost/compress v1.15.15 // indirect
